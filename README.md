@@ -1,4 +1,4 @@
-# inventory-management- ddddddddddddddddd
+
 import mysql.connector 
 print(""" inventory management system""" )
 mydb=mysql.connector.connect(host="localhost",user="root",password=("anshkb@0508"))
